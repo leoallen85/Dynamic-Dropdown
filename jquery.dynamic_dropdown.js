@@ -47,7 +47,7 @@
 			// Run the function straight off
 			checkToLoad();
 
-			jQuery(dropdown).change(function(){
+			dropdown.change(function(){
 
 				// Run the function
 				checkToLoad();
